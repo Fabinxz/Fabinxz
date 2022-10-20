@@ -32,3 +32,5 @@
 </div>
 
 ![Snake animation](https://github.com/Fabinxz/Fabinxz/blob/output/github-contribution-grid-snake.svg)
+
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=qu5gi1g2nzprwkxqzzlqneuox)
