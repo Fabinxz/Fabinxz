@@ -16,7 +16,7 @@
    </div>
     
   
-  <h1 align="center">Redes Sociais</h1>
+<!--   <h1 align="center">Redes Sociais</h1>
     <a href = "mailto: fabinxhard@gmail.com">
       <img width="30" src="gmail.svg">
     </a>
@@ -28,11 +28,7 @@
     </a>
     <a href = "https://www.instagram.com/fabinxzz/">
       <img width="25" src="instagram.png">
-    </a>
+    </a> -->
 </div>
 
 ![Snake animation](https://github.com/Fabinxz/Fabinxz/blob/output/github-contribution-grid-snake.svg)
-
-<div align="center">
-  ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=qu5gi1g2nzprwkxqzzlqneuox)
-</div>
