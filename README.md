@@ -32,3 +32,5 @@
 </div>
 
 ![Snake animation](https://github.com/Fabinxz/Fabinxz/blob/output/github-contribution-grid-snake.svg)
+
+<blockquote class="twitter-tweet"><p lang="zxx" dir="ltr"><a href="https://t.co/VArqKJgxdw">pic.twitter.com/VArqKJgxdw</a></p>&mdash; Gloomóôöøōáàåāynaäìûóéèyóøbâīkjįxyàåėēyì (@gloompostagem) <a href="https://twitter.com/gloompostagem/status/1583447795113263104?ref_src=twsrc%5Etfw">October 21, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
