@@ -5,7 +5,7 @@
 </div>
 <br>
 
-<div  align="center"> 
+<!-- <div  align="center"> 
   <div style="display: inline_block"><br>
     <img align="left" height="250" alt="coding-time" src="code.gif">
     <h1 align="center">Tecnologias e Ferramentas</h1>
@@ -28,6 +28,6 @@
     <a href = "https://www.instagram.com/fabinxzz/">
       <img width="25" src="instagram.png">
     </a>
-</div>
+</div> -->
 
 ![Snake animation](https://github.com/Fabinxz/Fabinxz/blob/output/github-contribution-grid-snake.svg)
