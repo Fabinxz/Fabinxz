@@ -1,5 +1,6 @@
+# Oi kk <img src="https://media.giphy.com/media/iigp4VDyf5dCLRlGkm/giphy.gif" width="45px" height="45px" align="center">
+
 <div>
-  
   <img width="350em" height="180em" src="https://github-readme-stats.vercel.app/api?username=Fabinxz&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
   <img align="right" width="350em" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fabinxz&layout=compact&langs_count=16&theme=great-gatsby"/>
 </div>
@@ -8,7 +9,7 @@
 <div  align="center"> 
   <div style="display: inline_block"><br>
     <img align="left" height="250" alt="coding-time" src="code.gif">
-    <h1 align="center">Tecnologias e Ferramentas</h1>
+    <h1 align="center">Tecnologias</h1> <img src="https://media.giphy.com/media/l0LpKuTWbq8osPTT11/giphy.gif" width="45px" height="45px" align="center">
     <img align="center" height="30" width="40" alt="js-icon"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img align="center" height="30" width="40" alt="css-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     <img align="center" height="30" width="40" alt="html-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
