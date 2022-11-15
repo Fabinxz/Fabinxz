@@ -1,4 +1,4 @@
-# Hey! I'm Fábio! <img src="https://media.giphy.com/media/iigp4VDyf5dCLRlGkm/giphy.gif" width="45px" height="45px" align="center">
+# <h2 align="center">Hey! I'm Fábio! <img src="https://media.giphy.com/media/iigp4VDyf5dCLRlGkm/giphy.gif" width="45px" height="45px" align="center"></h2>
 
 <div>
   <img width="350em" height="180em" src="https://github-readme-stats.vercel.app/api?username=Fabinxz&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
