@@ -9,11 +9,11 @@
 <div  align="center"> 
   <div style="display: inline_block"><br>
     <img align="left" height-"285" width="450" alt="gif" src="programmer.gif">
-    <h1 align="center">Technologies <img src="https://media.giphy.com/media/l0LpKuTWbq8osPTT11/giphy.gif" width="45px" height="45px" align="center"></h1>
-    <img align="center" height="30" width="40" alt="js-icon"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-    <img align="center" height="30" width="40" alt="css-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <img align="center" height="30" width="40" alt="html-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-    <img align="center" height="35" width="40" alt="python-icon" src="https://img.icons8.com/color/512/python.png">
+    <h1 align="right">Technologies <img src="https://media.giphy.com/media/l0LpKuTWbq8osPTT11/giphy.gif" width="45px" height="45px" align="center"></h1>
+    <img align="right" height="30" width="40" alt="js-icon"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+    <img align="right" height="30" width="40" alt="css-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+    <img align="right" height="30" width="40" alt="html-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+    <img align="right" height="35" width="40" alt="python-icon" src="https://img.icons8.com/color/512/python.png">
    </div>
     
   <h1 align="center">Social Networks</h1>
