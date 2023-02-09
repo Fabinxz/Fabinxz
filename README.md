@@ -6,7 +6,7 @@
 </div>
 <br>
 
-<div  align="center"> 
+<div align="center"> 
   <div style="display: inline_block"><br>
     <img align="left" height-"285" width="450" alt="gif" src="programmer.gif">
     <h1 align="ceenter">Technologies <img src="https://media.giphy.com/media/l0LpKuTWbq8osPTT11/giphy.gif" width="45px" height="45px" align="center"></h1>
@@ -31,4 +31,6 @@
     </a>
 </div>
 
-![Snake animation](https://github.com/Fabinxz/Fabinxz/blob/output/github-contribution-grid-snake.svg)
+<div align="center"> 
+ ![Snake animation](https://github.com/Fabinxz/Fabinxz/blob/output/github-contribution-grid-snake.svg)
+</div>
