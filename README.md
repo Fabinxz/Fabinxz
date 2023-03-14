@@ -20,7 +20,7 @@
     <a href = "mailto: fabinxhard@gmail.com">
       <img width="30" src="gmail.svg">
     </a>
-    <a href = "#">
+    <a href = "https://www.linkedin.com/in/fábio-machado-03427a26a/">
       <img width="25" src="linkedin.svg">
     </a>
     <a href = "https://www.youtube.com/channel/UCjHDmK_R37XvpsV8zBbxzlA">
