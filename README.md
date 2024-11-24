@@ -26,7 +26,7 @@
     <a href = "https://www.youtube.com/channel/UCjHDmK_R37XvpsV8zBbxzlA">
       <img width="35" src="youtube.svg">
     </a>
-    <a href = "https://www.instagram.com/fabinxzz/">
+    <a href = "https://www.instagram.com/fabiomachado7_/">
       <img width="25" src="instagram.png">
     </a>
 </div>
