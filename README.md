@@ -1,80 +1,71 @@
-<h1 align="center">Hey, I'm Fábio! <img src="https://media.giphy.com/media/iigp4VDyf5dCLRlGkm/giphy.gif" width="50"/></h1>
+<h1 align="center">
+  Fábio Machado 💻🧠
+</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&pause=1000&center=true&width=435&lines=Developer+in+Progress;Future+Doctor+%F0%9F%A7%BA;Lifelong+Learner;Creative+Mind+%2B+Disciplined+Routine" alt="Typing SVG" />
+</p>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3lvMzd3bzZ3MHl4a3pxOTBkYXB5eDg1YTZ0eHR3MHZlOHM2aWdyMiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/tXL4FHPSnVJ0A/giphy.gif" width="350" />
+</div>
+
+---
+
+## 🚀 Sobre mim
+
+🎓 Vestibulando de Medicina  
+💡 Curioso por natureza, criativo por vocação  
+🧬 Apaixonado por genética, tecnologia e desenvolvimento pessoal  
+💪 Disciplina é minha linguagem secreta  
+
+---
+
+## 🧰 Tech Stack
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,git,github,vscode" />
+</div>
+
+---
+
+## 📈 GitHub Analytics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Fabinxz&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fabinxz&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180"/>
+</div>
+
+---
+
+## 🌍 Conecta comigo
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Student+%F0%9F%8E%93;Future+Doctor+%F0%9F%A7%BA;Developer+in+progress+%F0%9F%92%BB;Lifelong+learner+%F0%9F%8C%9F&center=true&width=500&height=45">
+  <a href="mailto:fabinxhard@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/fábio-machado-03427a26a/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.instagram.com/fabiomachado7_/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="https://www.youtube.com/channel/UCjHDmK_R37XvpsV8zBbxzlA"><img src="https://img.shields.io/badge/Youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
 </p>
 
 ---
 
-<div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
-</div>
+## 🧠 Filosofia de vida
+
+> _“Disciplina supera talento — quando o talento não trabalha duro.”_  
+> _“Desistir não é opção. Só muda o plano.”_
 
 ---
 
-## 🚀 About Me
-> *"Transformando sonhos em código e criatividade em projetos."*
+## 🎯 Em construção…
 
-💡 Sou Fábio, estudante apaixonado por **tecnologia**, **medicina**, **criatividade** e **crescimento pessoal**.  
-💻 No momento, estou desenvolvendo projetos com **HTML**, **CSS**, **JavaScript** e aprendendo mais de **Python**.  
-📚 Estou focado em ENEM e vestibulares, mas nunca paro de criar coisas legais!
-
----
-
-## 🛠️ Tech Stack
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="js" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/48/000000/python.png" alt="python" width="40" height="40"/>
-</div>
+- Criar projetos com HTML + CSS + JS que realmente **impactem**  
+- Aprender **Python para automações e dados**  
+- Montar meu próprio site e portfólio online  
+- Conquistar a **medicina** e nunca parar de codar! 🧬
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Fabinxz&show_icons=true&theme=radical&count_private=true&hide_border=true&include_all_commits=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fabinxz&layout=compact&langs_count=8&theme=radical&hide_border=true"/>
-</div>
-
----
-
-## 🌐 Connect With Me
+## 🐍 Snake Contribution
 
 <p align="center">
-  <a href="mailto:fabinxhard@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/fábio-machado-03427a26a/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://www.instagram.com/fabiomachado7_/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-  <a href="https://www.youtube.com/channel/UCjHDmK_R37XvpsV8zBbxzlA">
-    <img src="https://img.shields.io/badge/Youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
-  </a>
-</p>
-
----
-
-## 😎 Fun Facts
-
-- 🎯 Quero ser **médico** e também **manjar muito de tech**!
-- 🧠 Estudo todos os dias com foco no **ENEM**.
-- 🏋️‍♂️ Malho pesado e cuido da **saúde física e mental**.
-- 💬 Sempre pronto pra ajudar, aprender e compartilhar.
-
----
-
-## 💬 Frase que me inspira
-> _"A jornada é difícil, mas a vista do topo vale cada passo."_  
-
----
-
-## 🐍 Git Contribution Snake
-<div align="center">
   <img src="https://github.com/Fabinxz/Fabinxz/blob/output/github-contribution-grid-snake.svg" />
-</div>
+</p>
