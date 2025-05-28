@@ -2,10 +2,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Olá,%20eu%20sou%20o%20Fábio!&fontSize=30&fontAlignY=35&animation=fadeIn" />
 </p>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200" />
-</p>
-
 <h3 align="center">💻 Desenvolvedor em formação | Apaixonado por tecnologia e criatividade</h3>
 
 ---
