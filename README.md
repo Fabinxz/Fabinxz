@@ -35,13 +35,13 @@
 ### 📫 Contato
 
 <p align="center">
-  <a href="mailto:fabio@example.com">
+  <a href="mailto:fabinxhard@gmail.com">
     <img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/fabio">
+  <a href="https://www.linkedin.com/in/f%C3%A1bio-machado-03427a26a/">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://www.instagram.com/fabio">
+  <a href="https://www.instagram.com/fabiomachado7_">
     <img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white" />
   </a>
 </p>
